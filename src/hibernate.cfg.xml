@@ -8,12 +8,12 @@
 
 		<!-- local connection properties -->
 		<!-- DataBase Url Connexion : -->
-		<property name="hibernate.connection.url">jdbc:mysql://mysql1.alwaysdata.com/stagesgeom_tersuicide</property>
+		<property name="hibernate.connection.url"></property>
 		<property name="hibernate.connection.driver_class">com.mysql.jdbc.Driver</property>
 		<!-- DataBase Connection Username : -->
-		<property name="hibernate.connection.username">39131_tersuicide</property>
+		<property name="hibernate.connection.username"></property>
 		<!-- DataBase Connection Password : -->
-		<property name="hibernate.connection.password">tersuicide</property>
+		<property name="hibernate.connection.password"></property>
 		<!-- property name="hibernate.connection.pool_size"></property -->
 
 		<!-- dialect for MySQL -->
